@@ -25,5 +25,16 @@ Serial entrepreneur and creative strategist obsessed with automation, AI, and bu
 ---
 *"Think systems. Build empires. Optimize everything."*
 
+
 ## **🔥 Recent Projects:**
-<!-- This section can be auto-generated -->
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+          
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
+
+## **Tech Stack:**
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+          
