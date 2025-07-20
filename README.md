@@ -1,4 +1,4 @@
-# Hi there, I'm Choy 👋
+# Hi there, I'm Shanchoy!
 
 **Building the future, one system at a time.**
 
