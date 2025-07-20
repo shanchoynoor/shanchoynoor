@@ -18,19 +18,18 @@ Serial entrepreneur and creative strategist obsessed with automation, AI, and bu
 * Systems architecture & process optimization
 
 ## **Let's Connect:**
-* 📧 Email: shanchoy.noor@gmail.com
-* 💬 Telegram: @shanchoynoor
-* 🌐 Website: shanchoynoor.com (OFFLINE)
+* 💼 LinkedIn: [shanchoynoor](https://linkedin.com/in/shanchoynoor)
+* 💬 Telegram: [@shanchoynoor](https://t.me/shanchoynoor)
+* 📧 Email: [shanchoy.noor@gmail.com](mailto:shanchoy.noor@gmail.com)
+* 🌐 Website: [shanchoynoor.com](https://shanchoynoor.com) *(Currently Offline)*
 
 ---
 *"Think systems. Build empires. Optimize everything."*
 
 
 ## **📊 Statistics**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shanchoynoor&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shanchoynoor&layout=compact&theme=dark)
-
-## **👷 Check out what I'm currently working on**
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<br>
+<br>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shanchoynoor&show_icons=true&theme=dark)
           
