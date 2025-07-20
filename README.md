@@ -4,15 +4,15 @@
 
 Serial entrepreneur and creative strategist obsessed with automation, AI, and building digital empires. Currently architecting Choy AI—my JARVIS-style assistant powered by VPS, Docker, and Telegram bots.
 
----
-*"Think systems. Build empires. Optimize everything."*
-
 ## **About Me:**
 * 🚀 **Founder**: Choy AI → Choy Agency Ltd. → Choy Wear → Choy Group (building a global portfolio)
 * 💡 **Background**: Self-taught full-stack developer with AI expertise and 8+ years in technical support, UI/UX, video editing, and systems thinking
 * 🏙️ **Based**: Dhaka, Bangladesh (next stop: Dubai)
 * 🎯 **Mission**: Financial freedom through tech, fashion, and digital ventures
 * ⚡ **Specialty**: Turning complex problems into elegant automated solutions
+
+---
+*"Think systems. Build empires. Optimize everything."*
 
 ## **Current Focus:**
 * Building Choy AI - JARVIS-style automation assistant
