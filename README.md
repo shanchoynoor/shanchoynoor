@@ -28,8 +28,12 @@ Serial entrepreneur and creative strategist obsessed with automation, AI, and bu
 
 
 ## **📊 Statistics**
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shanchoynoor&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shanchoynoor&layout=compact&theme=light)
 <br>
 <br>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shanchoynoor&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shanchoynoor&show_icons=true&theme=light)
+
+## **👷 Check out what I'm currently working on**
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
           
