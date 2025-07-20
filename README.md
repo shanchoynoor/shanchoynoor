@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Choy 👋
 
-<!--
-**shanchoynoor/shanchoynoor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Building the future, one system at a time.**
 
-Here are some ideas to get you started:
+Serial entrepreneur and creative strategist obsessed with automation, AI, and building digital empires. Currently architecting Choy AI—my JARVIS-style assistant powered by VPS, Docker, and Telegram bots.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## **About Me:**
+* 🚀 **Founder**: ChoyAgency → Choy AI → ChoyGroup (building a global portfolio)
+* 💡 **Background**: Self-taught full-stack developer with AI expertise and 8+ years in technical support, UI/UX, video editing, and systems thinking
+* 🏙️ **Based**: Dhaka, Bangladesh (next stop: Dubai)
+* 🎯 **Mission**: Financial freedom through tech, fashion, and digital ventures
+* ⚡ **Specialty**: Turning complex problems into elegant automated solutions
+
+## **Current Focus:**
+* Building Choy AI - JARVIS-style automation assistant
+* Scaling digital ventures across multiple verticals
+* Crypto investments & DeFi strategies
+* Systems architecture & process optimization
+
+## **Let's Connect:**
+* 📧 Email: shanchoy.noor@gmail.com
+* 💬 Telegram: @shanchoynoor
+* 🌐 Website: shanchoynoor.com (OFFLINE)
+
+---
+*"Think systems. Build empires. Optimize everything."*
+
+## **🔥 Recent Projects:**
+<!-- This section can be auto-generated -->
