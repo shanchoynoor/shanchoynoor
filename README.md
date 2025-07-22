@@ -2,7 +2,7 @@
 
 **Building the future, one system at a time.**
 
-Serial entrepreneur and creative strategist obsessed with automation, AI, and building digital empires. Currently architecting Choy AI—my JARVIS-style assistant powered by VPS, Docker, and Telegram bots.
+Tech-driven entrepreneur and creative strategist focused on automation, AI, and building scalable digital ventures. Currently developing Choy AI — a JARVIS-style assistant powered by LLM, and deployed using VPS, Docker, and Telegram bots. A cross-platform interface is underway, including a Next.js web app and future Flutter-based mobile experience.
 
 ## **About Me:**
 * 🚀 **Founder**: Choy AI → Choy Agency Ltd. → Choy Wear → Choy Group (building a global portfolio)
