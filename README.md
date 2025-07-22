@@ -33,10 +33,9 @@ Tech-driven entrepreneur and creative strategist focused on automation, AI, and 
 <br>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shanchoynoor&show_icons=true&theme=light)
 
-## **👷 Check out what I'm currently working on**
-<!--START_SECTION:activity-->
-1. ❌ Closed PR [#2](https://github.com/shanchoynoor/ChoyAI_News_Module/pull/2) in [shanchoynoor/ChoyAI_News_Module](https://github.com/shanchoynoor/ChoyAI_News_Module)
-2. ❌ Closed PR [#1](https://github.com/shanchoynoor/ChoyAI_News_Module/pull/1) in [shanchoynoor/ChoyAI_News_Module](https://github.com/shanchoynoor/ChoyAI_News_Module)
-3. ❗ Opened issue [#254549](https://github.com/microsoft/vscode/issues/254549) in [microsoft/vscode](https://github.com/microsoft/vscode)
-<!--END_SECTION:activity-->
+## 👷 Check out what I'm currently working on
+
+<!--START_SECTION:choy_latest_repos-->
+<!-- Repos will auto-populate here -->
+<!--END_SECTION:choy_latest_repos-->
           
