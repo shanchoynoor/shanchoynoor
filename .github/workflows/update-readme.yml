@@ -27,8 +27,8 @@ jobs:
 
       - name: Commit and Push
         run: |
-          git config user.name "choy-bot"
-          git config user.email "choy@example.com"
+          git config user.name "shanchoynoor"
+          git config user.email "shanchoyzone@gmail.com"
           git add README.md
           git commit -m "📦 update latest repos"
           git push
