@@ -8,13 +8,27 @@ on:
 jobs:
   update-readme:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
-      - uses: actions/checkout@v4
-      - uses: jamesgeorge007/github-activity-readme@master
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18
+
+      - name: Install Dependencies
+        run: npm install @octokit/rest
+
+      - name: Update Latest Repos Section
+        run: node .github/scripts/updateRepos.js
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          COMMIT_MSG: 'Update README with recent activity'
-          MAX_LINES: 10
+
+      - name: Commit and Push
+        run: |
+          git config user.name "choy-bot"
+          git config user.email "choy@example.com"
+          git add README.md
+          git commit -m "📦 update latest repos"
+          git push
