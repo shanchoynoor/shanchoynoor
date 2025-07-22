@@ -33,9 +33,4 @@ Tech-driven entrepreneur and creative strategist focused on automation, AI, and 
 <br>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shanchoynoor&show_icons=true&theme=light)
 
-## 👷 Check out what I'm currently working on
-
-<!--START_SECTION:choy_latest_repos-->
-<!-- Repos will auto-populate here -->
-<!--END_SECTION:choy_latest_repos-->
           
