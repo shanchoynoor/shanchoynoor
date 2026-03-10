@@ -28,7 +28,9 @@ Tech-driven entrepreneur and creative strategist focused on automation, AI, and 
 
 
 ## **📊 Statistics**
-![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shanchoynoor&layout=compact&theme=light)
+<p align="left">
+  <img src="./languages-stats.svg" alt="Languages Statistics" />
+</p>
 <br>
 <br>
 ![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=shanchoynoor&show_icons=true&theme=light)
