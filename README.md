@@ -1,36 +1,38 @@
-# Hi there, I'm Shanchoy!
+# Hi, I'm Shanchoy Noor 👋
 
-**Building the future, one system at a time.**
+**Founder & CEO @ Choyzenic · Full-stack developer · Systems builder**
 
-Tech-driven entrepreneur and creative strategist focused on automation, AI, and building scalable digital ventures. Currently developing Choy AI — a JARVIS-style assistant powered by LLM, and deployed using VPS, Docker, and Telegram bots. A cross-platform interface is underway, including a Next.js web app and future Flutter-based mobile experience.
+I build AI products, automation systems, and scalable digital infrastructure. Currently shipping **Choy AI** — an agentic AI personal assistant that orchestrates productivity, decision-making, and workflow automation — alongside a portfolio of software and media ventures reaching millions of viewers across social platforms.
 
-## **About Me:**
-* **Founder**: Choy AI → Choy Agency Ltd. → Choy Wear → Choy Group (building a global portfolio)
-* **Background**: Self-taught full-stack developer with AI expertise and 8+ years in technical support, UI/UX, video editing, and systems thinking
-* **Based**: Dhaka, Bangladesh (next stop: Dubai)
-* **Mission**: Financial freedom through tech, fashion, and digital ventures
-* **Specialty**: Turning complex problems into elegant automated solutions
+## What I'm building
 
----
-*"Think systems. Build empires. Optimize everything."*
+- **Choy AI** — agentic AI assistant. Cross-platform clients: React Native + Expo mobile app, native iOS (SwiftUI), desktop app, Telegram bot, and voice calling.
+- **ChoyCraft** — creative AI aggregator for text, image, video, and audio generation.
+- **ChoyArk** — unified productivity ecosystem.
 
-## **Current Focus:**
-* Building Choy AI - JARVIS-style automation assistant
-* Scaling digital ventures across multiple verticals
-* Crypto investments & DeFi strategies
-* Systems architecture & process optimization
+## Media & content
 
-## **Let's Connect:**
-* 💼 LinkedIn: [shanchoynoor](https://linkedin.com/in/shanchoynoor)
-* 💬 Telegram: [@shanchoynoor](https://t.me/shanchoynoor)
-* 📧 Email: [shanchoy.noor@gmail.com](mailto:shanchoy.noor@gmail.com)
-* 🌐 Website: [shanchoynoor.com](https://shanchoynoor.com) *(Currently Offline)*
+Operating high-volume YouTube/social channels — **AroundMeBD**, **Village Grandpa's Cooking**, and **Fortunate Guest** — managing end-to-end production, narrative structure, and editing systems.
 
+## Stack
 
-## **📊 Statistics**
-![Top Languages](languages-stats.svg)
-<br>
-<br>
-![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=shanchoynoor&show_icons=true&theme=light)
+TypeScript · React · React Native · Next.js · Node.js · Python · Supabase · Docker · Linux/VPS · Telegram Bots · FFmpeg · LLM/AI integration
 
-          
+## Featured projects
+
+- [Choy_News_Backend](https://github.com/shanchoynoor/Choy_News_Backend) — production Telegram news bot delivering multiple AI-curated daily digests.
+- [Get_VPS_Server_Status](https://github.com/shanchoynoor/Get_VPS_Server_Status) — VPS/server monitoring with Telegram & email reports.
+- [Shanchoy_Noor_Portfolio](https://github.com/shanchoynoor/Shanchoy_Noor_Portfolio) — my portfolio site: [shanchoy-noor.vercel.app](https://shanchoy-noor.vercel.app)
+
+## Connect
+
+- 💼 [LinkedIn](https://linkedin.com/in/shanchoynoor)
+- 💬 Telegram: [@shanchoynoor](https://t.me/shanchoynoor)
+- 📧 Email: shanchoy.noor@gmail.com
+- 🌐 [Portfolio](https://shanchoy-noor.vercel.app)
+
+## Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shanchoynoor&show_icons=true&theme=light)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shanchoynoor&layout=compact&theme=light)
