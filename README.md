@@ -15,7 +15,7 @@ A tech savvy guy from Dhaka, Bangladesh, with 10+ years across web development a
 - **Choyzenic** (Oct 2024 – present) — co-founder & CEO. Product-focused software company for AI tools, automation and scalable infrastructure.
 - **Iqrasys Solutions** (2019 – 2024) — Frontend Developer and Post Production Manager. Ran end-to-end content workflows, narrative structure and editing systems for high-volume YouTube/social channels (AroundMeBD, Village Grandpa's Cooking, Fortunate Guest) reaching millions of viewers.
 
-##Stack
+## Stack
 
 TypeScript · React · Next.js · Vue ·  React Native · Node.js · Python ·  Rust · PHP · Swift · PostgreSQL · AI/LLM IntegrationDocker · Linux/VPS · Nix · Automation & Telegram Bots
 
