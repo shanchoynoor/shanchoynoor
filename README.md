@@ -1,6 +1,6 @@
 # Hi, I'm Shanchoy Noor 👋
 
-**Founder & CEO @ Choyzenic · Full-stack developer · Systems builder**
+**Founder & CEO · Full-Stack Developer · Systems Builder**
 
 I build AI products, automation systems, and scalable digital infrastructure. Currently shipping **Choy AI** — an agentic AI personal assistant that orchestrates productivity, decision-making, and workflow automation — alongside a portfolio of software and media ventures reaching millions of viewers across social platforms.
 
