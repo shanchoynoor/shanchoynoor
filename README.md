@@ -2,7 +2,7 @@
 
 **Co-Founder & CEO, Choyzenic · Full-Stack Developer · Systems Builder**
 
-A tech savvy guy from Dhaka, Bangladesh, with 10+ years across web development and media production. I build AI products, automation systems and scalable digital infrastructure at **Choyzenic**, moving from services to proprietary products. Currently shipping **Choy AI**, a personal assistant agentic Ai that orchestrates productivity, decision-making and workflow automation.
+A tech-savvy guy from Dhaka, Bangladesh, with 10+ years of experience in web design & development and media production. I build AI products, automation systems, and scalable digital infrastructure at Choyzenic, moving from services to proprietary products. Currently shipping Choy AI, a personal assistant agentic AI that orchestrates productivity, decision-making, and workflow automation.
 
 ## What I'm building
 
