@@ -27,12 +27,6 @@ TypeScript · React · Next.js · Vue ·  React Native · Node.js · Python ·  
 - [VPS_Server_Status_Bot](https://github.com/shanchoynoor/VPS_Server_Status_Bot) — VPS/server monitoring with Telegram and email reports.
 - [ShanchoyNoor_Website](https://github.com/shanchoynoor/ShanchoyNoor_Website) — my portfolio site: [shanchoy-noor.vercel.app](https://shanchoy-noor.vercel.app)
 
-## Connect
-
-- <img src="assets/icons/linkedin.svg" width="16" height="16" alt="LinkedIn" /> [LinkedIn](https://linkedin.com/in/shanchoynoor)
-- <img src="assets/icons/telegram.svg" width="16" height="16" alt="Telegram" /> Telegram: [@shanchoynoor](https://t.me/shanchoynoor)
-- <img src="assets/icons/gmail.svg" width="16" height="16" alt="Email" /> Email: [shanchoy.noor@gmail.com](mailto:shanchoy.noor@gmail.com)
-- <img src="assets/icons/portfolio.svg" width="16" height="16" alt="Portfolio" /> [Portfolio](https://shanchoy-noor.vercel.app)
 
 ## Stats
 
