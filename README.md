@@ -1,18 +1,19 @@
 # Hi, I'm Shanchoy Noor 👋
 
-**Founder & CEO · Full-Stack Developer · Systems Builder**
+**Co-Founder & CEO, Choyzenic · Full-Stack Developer · Systems Builder**
 
-I build AI products, automation systems, and scalable digital infrastructure. Currently shipping **Choy AI** — an agentic AI personal assistant that orchestrates productivity, decision-making, and workflow automation — alongside a portfolio of software and media ventures reaching millions of viewers across social platforms.
+Computer engineer from Dhaka, Bangladesh, with 10+ years across frontend engineering and media production. I build AI products, automation systems and scalable digital infrastructure at **Choyzenic**, moving from services to proprietary products. Currently shipping **Choy AI**, an agentic personal assistant that orchestrates productivity, decision-making and workflow automation.
 
 ## What I'm building
 
-- **Choy AI** — agentic AI assistant. Cross-platform clients: React Native + Expo mobile app, native iOS (SwiftUI), desktop app, Telegram bot, and voice calling.
-- **ChoyCraft** — creative AI aggregator for text, image, video, and audio generation.
-- **ChoyArk** — unified productivity ecosystem.
+- **Choy AI** — agentic AI assistant. Clients: React Native + Expo mobile app, native iOS (SwiftUI), desktop app, Telegram bot and voice calling.
+- **ChoyCraft** — creative AI aggregator for text, image, video and audio generation.
+- **ChoyArk** — unified productivity ecosystem: one workspace and one login for personal life, freelance work and business.
 
-## Media & content
+## Background
 
-Operating high-volume YouTube/social channels — **AroundMeBD**, **Village Grandpa's Cooking**, and **Fortunate Guest** — managing end-to-end production, narrative structure, and editing systems.
+- **Choyzenic** (Oct 2024 – present) — co-founder & CEO. Product-focused software company for AI tools, automation and scalable infrastructure.
+- **Iqrasys Solutions** (2019 – 2024) — Frontend Developer and Post Production Manager. Ran end-to-end content workflows, narrative structure and editing systems for high-volume YouTube/social channels (AroundMeBD, Village Grandpa's Cooking, Fortunate Guest) reaching millions of viewers.
 
 ## Stack
 
@@ -20,19 +21,27 @@ TypeScript · React · React Native · Next.js · Node.js · Python · Supabase 
 
 ## Featured projects
 
-- [Choy_News_Backend](https://github.com/shanchoynoor/Choy_News_Backend) — production Telegram news bot delivering multiple AI-curated daily digests.
-- [Get_VPS_Server_Status](https://github.com/shanchoynoor/Get_VPS_Server_Status) — VPS/server monitoring with Telegram & email reports.
-- [Shanchoy_Noor_Portfolio](https://github.com/shanchoynoor/Shanchoy_Noor_Portfolio) — my portfolio site: [shanchoy-noor.vercel.app](https://shanchoy-noor.vercel.app)
+- [ChoyNews_Backend](https://github.com/shanchoynoor/ChoyNews_Backend) — AI news digest and breaking-news system for the @choynews Telegram channel, running as scheduled agent automations on a cloud VPS.
+- [VPS_Server_Status_Bot](https://github.com/shanchoynoor/VPS_Server_Status_Bot) — VPS/server monitoring with Telegram and email reports.
+- [ChoyClone_WebApp](https://github.com/shanchoynoor/ChoyClone_WebApp) — CloneMe, an AI clone/persona web app built with Next.js and TypeScript.
+- [ShanchoyNoor_Website](https://github.com/shanchoynoor/ShanchoyNoor_Website) — my portfolio site: [shanchoy-noor.vercel.app](https://shanchoy-noor.vercel.app)
 
 ## Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/shanchoynoor)
-- 💬 Telegram: [@shanchoynoor](https://t.me/shanchoynoor)
-- 📧 Email: shanchoy.noor@gmail.com
-- 🌐 [Portfolio](https://shanchoy-noor.vercel.app)
+- <img src="assets/icons/linkedin.svg" width="16" height="16" alt="LinkedIn" /> [LinkedIn](https://linkedin.com/in/shanchoynoor)
+- <img src="assets/icons/telegram.svg" width="16" height="16" alt="Telegram" /> Telegram: [@shanchoynoor](https://t.me/shanchoynoor)
+- <img src="assets/icons/gmail.svg" width="16" height="16" alt="Email" /> Email: [shanchoy.noor@gmail.com](mailto:shanchoy.noor@gmail.com)
+- <img src="assets/icons/portfolio.svg" width="16" height="16" alt="Portfolio" /> [Portfolio](https://shanchoy-noor.vercel.app)
 
 ## Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shanchoynoor&show_icons=true&theme=light)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shanchoynoor&layout=compact&theme=light)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shanchoynoor&theme=github_dark">
+    <img alt="GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shanchoynoor&theme=github" width="49%">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shanchoynoor&theme=github_dark">
+    <img alt="Top Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shanchoynoor&theme=github" width="49%">
+  </picture>
+</p>
