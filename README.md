@@ -21,9 +21,10 @@ TypeScript · React · React Native · Next.js · Node.js · Python · Supabase 
 
 ## Featured projects
 
+
+- [ChoyClone_WebApp](https://github.com/shanchoynoor/ChoyClone_WebApp) — CloneMe, an AI clone/persona web app built with Next.js and TypeScript.
 - [ChoyNews_Backend](https://github.com/shanchoynoor/ChoyNews_Backend) — AI news digest and breaking-news system for the @choynews Telegram channel, running as scheduled agent automations on a cloud VPS.
 - [VPS_Server_Status_Bot](https://github.com/shanchoynoor/VPS_Server_Status_Bot) — VPS/server monitoring with Telegram and email reports.
-- [ChoyClone_WebApp](https://github.com/shanchoynoor/ChoyClone_WebApp) — CloneMe, an AI clone/persona web app built with Next.js and TypeScript.
 - [ShanchoyNoor_Website](https://github.com/shanchoynoor/ShanchoyNoor_Website) — my portfolio site: [shanchoy-noor.vercel.app](https://shanchoy-noor.vercel.app)
 
 ## Connect
