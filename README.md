@@ -2,7 +2,7 @@
 
 **Co-Founder & CEO, Choyzenic · Full-Stack Developer · Systems Builder**
 
-Computer engineer from Dhaka, Bangladesh, with 10+ years across frontend engineering and media production. I build AI products, automation systems and scalable digital infrastructure at **Choyzenic**, moving from services to proprietary products. Currently shipping **Choy AI**, an agentic personal assistant that orchestrates productivity, decision-making and workflow automation.
+A tech savvy guy from Dhaka, Bangladesh, with 10+ years across web development and media production. I build AI products, automation systems and scalable digital infrastructure at **Choyzenic**, moving from services to proprietary products. Currently shipping **Choy AI**, a personal assistant agentic Ai that orchestrates productivity, decision-making and workflow automation.
 
 ## What I'm building
 
@@ -17,7 +17,7 @@ Computer engineer from Dhaka, Bangladesh, with 10+ years across frontend enginee
 
 ## Stack
 
-TypeScript · React · React Native · Next.js · Node.js · Python · Supabase · Docker · Linux/VPS · Telegram Bots · FFmpeg · LLM/AI integration
+TypeScript · React · React Native · Next.js · Node.js · Python · Postgre · Docker · Linux/VPS · LLM/AI integration · Telegram Bots 
 
 ## Featured projects
 
